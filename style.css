@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.hero{
+    width: 592px;
+    text-align: center;
+    margin: auto;
+}
+
+.imagem_principal{
+    margin-bottom: 72px;
+}
+
+h1{
+    font-weight: normal;
+    font-family: 'Inter', sans-serif;
+    font-size: 49px;
+    line-height: 56px;
+    text-align: center;
+    color: black;
+    margin-bottom: 32px;
+}
+
+.texto_amarelo{
+    color: #FF9900;
+}
+
+.texto{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 28px;
+    text-align: center;
+    color: #7D7987;
+    margin-bottom: 75px;
+}
+
+footer{
+    text-align: center;
+}
+
+hr{
+    width: 568px;
+    border-color: #ECEFF2;
+    margin: 0px auto 8px;
+}
+
+footer a + a{
+    margin-left: 28px;
+}
+
+.imagem_balls{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
